@@ -230,6 +230,15 @@ Also you can refer to **config/config.php.sample**
 
 ## Contributions
 
+[![0](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/0)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/0)
+[![1](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/1)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/1)
+[![2](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/2)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/2)
+[![3](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/3)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/3)
+[![4](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/4)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/4)
+[![5](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/5)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/5)
+[![6](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/6)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/6)
+[![7](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/images/7)](https://sourcerer.io/fame/sergey48k/chriskacerguis/codeigniter-restserver/links/7)
+
 This project was originally written by Phil Sturgeon, however his involvement has shifted
 as he is no longer using it.  As of 2013/11/20 further development and support will be done by Chris Kacerguis.
 
